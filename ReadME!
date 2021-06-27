@@ -1,0 +1,45 @@
+
+                                                    ,,  
+`7MMM.     ,MMF'                    mm      mm      db  
+  MMMb    dPMM                      MM      MM          
+  M YM   ,M MM   ,6"Yb.  `7Mb,od8 mmMMmm  mmMMmm  `7MM  
+  M  Mb  M' MM  8)   MM    MM' "'   MM      MM      MM  
+  M  YM.P'  MM   ,pm9MM    MM       MM      MM      MM  
+  M  `YM'   MM  8M   MM    MM       MM      MM      MM  
+.JML. `'  .JMML.`Moo9^Yo..JMML.     `Mbmo   `Mbmo .JMML.
+
+                                 ,,                                ,,                                         ..                  ..     
+MMP""MM""YMM                   `7MM                              `7MM                                       pd'                    `bq   
+P'   MM   `7                     MM                                MM                                      6P                        YA  
+     MM       .gP"Ya   ,p6"bo    MMpMMMb.  `7MMpMMMb.   ,pW"Wq.    MM   ,pW"Wq.   .P"Ybmmm `7M'   `MF'    6M'   `7MMpMMMb.pMMMb.     `Mb 
+     MM      ,M'   Yb 6M'  OO    MM    MM    MM    MM  6W'   `Wb   MM  6W'   `Wb :MI  I8     VA   ,V      MN      MM    MM    MM      8M 
+     MM      8M"""""" 8M         MM    MM    MM    MM  8M     M8   MM  8M     M8  WmmmP"      VA ,V       MN      MM    MM    MM      8M 
+     MM      YM.    , YM.    ,   MM    MM    MM    MM  YA.   ,A9   MM  YA.   ,A9 8M            VVV        YM.     MM    MM    MM     ,M9 
+   .JMML.     `Mbmmd'  YMbmd'  .JMML  JMML..JMML  JMML. `Ybmd9'  .JMML. `Ybmd9'   YMMMMMb      ,V          Mb   .JMML  JMML  JMML.   dM  
+                                                                                 6'     dP    ,V            Yq.                    .pY   
+                                                                                 Ybmmmd'   OOb"               ``                  ''     
+
+
+
+__________
+                                                                                                                                     
+Hi, this is a simple project using a Raspberry Pi Pico and i2c 16x2 LCD with a converter.
+
+Everything is available on the Internet.
+
+I am adding a connection diagram and a photo of the finished project.
+
+__________
+
+# Step 1: Connect the screen to the RPi
+
+# Step 2: Connect the RPi to the computer
+
+# Step 3: Copy files to RPi using the Thonny app (Important! File names cannot be changed, they must be the same)
+
+# Step 4: Run the project (Run.py)
+
+__________
+
+Take care,
+Martti                                                                                                                                  
